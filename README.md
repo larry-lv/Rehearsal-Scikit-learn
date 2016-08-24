@@ -1,2 +1,2 @@
-# Rehearsal-Scikit-learn
+# RehearsalScikit-learn
 尚待完善
